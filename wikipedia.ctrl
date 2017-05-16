@@ -1,0 +1,14 @@
+{"runname": "",
+  "inputCorpus": "enwiki-latest-pages-articles-filtered.txt",    
+  "outputPath": "Wikipedia",  
+  "parameters": {
+    "size":[50,100,200,300,400],
+    "window":[5],
+    "mc":[0],
+    "sg":[0,1],
+    "neg":[0,5,10,15],
+    "workers": 24
+  }
+}
+
+
